@@ -22,7 +22,7 @@ Microsoft Fabric Lakehouse is used for data storage and processing. Microsoft Fa
 * PySpark and Delta Lake
 * Medallion Architecture (Bronze, Silver, Gold)
 * Reverse Geocoder
-* Microsoft Fabric Data Factory
+* Microsoft Fabric Data Pipeline
 * Power BI Direct Lake
 
 ## Implementation
@@ -80,4 +80,4 @@ This project was developed as a guided learning exercise based on the following 
 * Storing structured datasets using Delta Lake.
 * Enriching datasets for analytical use cases.
 * Building Power BI reports using Direct Lake.
-* Orchestrating and scheduling data engineering workflows using Microsoft Fabric Data Factory.
+* Orchestrating and scheduling data engineering workflows using Microsoft Fabric Data Pipelines.
